@@ -1,7 +1,7 @@
 # Publication
 Bansal, S., Lai, G.V., Belingheri, M. et al. A biosynthetic thumb prosthesis. npj Biomed. Innov. 2, 22 (2025). https://doi.org/10.1038/s44385-025-00031-z
 
-This tool was used to create supplemental figure 6 from supplemental figure 5, the results of which are plotted in main figure 3d
+This tool was used to create supplemental figure 6 from the images in supplemental figure 5, from which infill and porosity are extracted and plotted in main figure 3d.
 
 
 # Histology-Analysis
